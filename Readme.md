@@ -103,4 +103,10 @@ Laraveler、PHPer面试指南
    - Laravel 路由实现原理
    - cookie 和 session 区别，session 保存在服务器的哪里？服务端是如何获取客户端的cookie？
    - 服务器集群搭建、负载均衡、反向代理
-   - 服务器常用命令     
+   - 服务器常用命令  
+   
+### 感谢
+ [overtrue](https://github.com/overtrue)
+ [赵金超](https://github.com/todayqq)
+ 以及所有[Laravel-China](https://laravel-china.org/topics)的小伙伴
+       
